@@ -2,8 +2,8 @@
 
 <h3 align="center">Languages</h1>
 <p align="center">
-  <img src="https://github.com/upyxs/blob/main/img/cplusplus.png">
-  <img src="https://github.com/upyxs/blob/main/img/csharp.png">
+  <img src="https://github.com/upyxs/upyxs/blob/main/img/cplusplus.png">
+  <img src="https://github.com/upyxs/upyxs/blob/main/img/csharp.png">
 </p>
 
 <p align="center">
