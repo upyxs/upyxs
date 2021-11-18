@@ -1,6 +1,15 @@
-### About My Profile
+<h1 align="center">About My Profile </h1>
 
-[![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=upyxs&layout=compact&theme=dracula&show_icons=true&langs_count=10)]((https://github.com/anuraghazra/github-readme-stats))
-[![Discord Status, if this text is visible and blue that means that the host or discord status thing is in maintenance/down](https://discord.c99.nl/widget/theme-4/852847344981377056.png)](https://discord.c99.nl/)
+<h3 align="center">Languages</h1>
+<p align="center">
+  <img src="https://github.com/upyxs/blob/main/img/cplusplus.png">
+  <img src="https://github.com/upyxs/blob/main/img/csharp.png">
+</p>
 
-**Im interested in C++, Javascript and other programming languages.**
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/852847344981377056.png">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=upyxs&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en">
+</p>
